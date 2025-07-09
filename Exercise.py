@@ -15,3 +15,25 @@ has_pet = True
 print("Your city:", city)
 print("Number of kids:", num_kids)
 print("Has pet:", has_pet)
+
+# ▶️ 2. Reassigning Variables
+age = 36 # Happy birthday!
+
+print("\nNew age after birthday:", age)
+# ✅ Task 2: Change the value of your city variable to another city and print it
+city = "Toronto"
+print ("\nNew city:", city)
+
+# ▶️ 3. Using Variables in Expressions
+year_born = 2025-age
+print ("\nYear Born:", year_born)
+
+# ✅ Task 3: Calculate the age your kids will be in 5 years and print
+kids_age_in_5_years = num_kids + 5 # Assuming Num_kids is the total number, change logic is needed
+print ("Kids age in 5 years (assuming starting age = num_kids):", kids_age_in_5_years)
+
+ #▶️ 4. Data Types Check
+print("\nType of name:", type(name))
+print("Type of age:", type(age))
+print("Type of height:", type(height))
+print("Type of is_student:", type(is_student))
