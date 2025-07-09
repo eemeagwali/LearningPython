@@ -37,3 +37,20 @@ print("\nType of name:", type(name))
 print("Type of age:", type(age))
 print("Type of height:", type(height))
 print("Type of is_student:", type(is_student))
+
+# ✅ Task 4: Print the data type of your city, num_kids, and has_pet variables
+print("Type of city:", type(city))
+print("Type of num_kids:", type(num_kids))
+print("Type of has_pet:", type(has_pet))
+
+# ▶️ 5. String Concatenation Using Variables
+greeting = "Hello, my name is " + name + " and I live in " + city + "."
+print("\n" + greeting)
+
+
+# ✅ Task 5: Create a sentence introducing yourself using your variables and print it
+
+
+my_intro = f"My name is {name}, I am {age} years old, and I live in {city}."
+print(my_intro)
+
