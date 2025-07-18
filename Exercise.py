@@ -269,5 +269,7 @@ print("\n" + my_intro)
 # Import NumPy
 import numpy as np
 
-
-
+# 1. Creating Arrays
+# Create a 1D array from a list
+a=np.array([1,2,3])
+print("1D Array:", a)
