@@ -75,3 +75,9 @@ daily_revenue["7_day_avg"] = daily_revenue["total_price"].rolling(window=7).mean
 print("\n✅Task 5: Revenue trend (last 10 days):")
 print(daily_revenue.tail(10))
 print("✅ You’ve completed the Foodr Data Analysis Exercise!")
+
+# sp100_analysis_numpy.py
+
+import numpy as np
+import matplotlib.pyplot as plt
+import csv

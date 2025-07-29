@@ -1,0 +1,103 @@
+Name,Sector,Price,EPS,P/E
+Apple Inc,Information Technology,170.12,9.2,18.49
+Abbvie Inc,Health Care,93.29,5.31,17.57
+Abbott Laboratories,Health Care,55.28,2.41,22.94
+Accenture Plc,Information Technology,145.3,5.91,24.59
+Allergan Plc,Health Care,171.81,15.42,11.14
+American International Group,Financials,59.5,2.51,23.71
+Allstate Corp,Financials,100.5,6.79,14.8
+Amgen,Health Care,168.93,12.58,13.43
+Amazon.Com Inc.,Consumer Discretionary,1126.82,3.94,285.99
+American Express Company,Financials,93.92,5.22,17.99
+Boeing Company,Industrials,265.04,9.75,27.18
+Bank of America Corp,Financials,26.7,1.75,15.26
+Biogen Inc,Health Care,311.92,21.59,14.45
+Bank of New York Mellon Corp,Financials,52.73,3.47,15.2
+Blackrock,Financials,474.05,21.55,22.0
+Bristol-Myers Squibb Company,Health Care,60.48,2.96,20.43
+Berkshire Hath Hld B,Financials,181.27,6.29,28.82
+Citigroup Inc,Financials,71.87,5.19,13.85
+Caterpillar Inc,Industrials,137.37,5.55,24.75
+Celgene Corp,Health Care,102.88,6.4,16.08
+Charter Communicatio,Consumer Discretionary,346.2,1.61,215.03
+Colgate-Palmolive Company,Consumer Staples,72.16,2.87,25.14
+Comcast Corp A,Consumer Discretionary,36.13,2.02,17.89
+Capital One Financial Corp,Financials,88.26,7.58,11.64
+Conocophillips,Energy,49.89,0.02,2494.5
+Costco Wholesale,Consumer Staples,171.22,5.82,29.42
+Cisco Systems Inc,Information Technology,36.38,2.17,16.76
+CVS Corp,Consumer Staples,70.18,5.71,12.29
+Chevron Corp,Energy,114.84,3.57,32.17
+Danaher Corp,Health Care,93.45,3.89,24.02
+Walt Disney Company,Consumer Discretionary,103.02,5.7,18.07
+Duke Energy Corp,Utilities,88.61,4.45,19.91
+Dowdupont Inc.,Materials,71.12,3.66,19.43
+Emerson Electric Company,Industrials,60.14,2.58,23.31
+Exelon Corp,Utilities,41.32,2.48,16.66
+Ford Motor Company,Consumer Discretionary,12.11,1.68,7.21
+Facebook Inc,Information Technology,179.14,5.19,34.52
+Fedex Corp,Industrials,217.75,11.91,18.28
+21st Centry Fox Class B,Consumer Discretionary,30.42,1.92,15.84
+21st Centry Fox Class A,Consumer Discretionary,31.14,1.92,16.22
+General Dynamics Corp,Industrials,198.7,10.07,19.73
+General Electric Company,Industrials,17.91,1.24,14.44
+Gilead Sciences Inc,Health Care,71.63,9.58,7.48
+General Motors Company,Consumer Discretionary,44.74,6.19,7.23
+Alphabet Class C,Information Technology,1018.48,29.87,34.1
+Alphabet Class A,Information Technology,1034.09,29.87,34.62
+Goldman Sachs Group,Financials,238.05,19.2,12.4
+Halliburton Company,Energy,41.57,0.73,56.95
+Home Depot,Consumer Discretionary,170.13,6.96,24.44
+Honeywell International Inc,Industrials,148.04,6.95,21.3
+International Business Machines,Information Technology,151.4,13.66,11.08
+Intel Corp,Information Technology,44.88,3.18,14.11
+Johnson & Johnson,Health Care,138.54,7.14,19.4
+JP Morgan Chase & Co,Financials,98.58,6.94,14.2
+Kraft Heinz Co,Consumer Staples,80.59,3.56,22.64
+Kinder Morgan,Energy,17.04,0.65,26.22
+Coca-Cola Company,Consumer Staples,45.6,1.89,24.13
+Eli Lilly and Company,Health Care,82.97,4.09,20.29
+Lockheed Martin Corp,Industrials,312.93,12.72,24.6
+Lowe's Companies,Consumer Discretionary,81.43,4.34,18.76
+Mastercard Inc,Information Technology,149.93,4.31,34.79
+McDonald's Corp,Consumer Discretionary,167.01,6.4,26.1
+Mondelez Intl Cmn A,Consumer Staples,42.49,2.05,20.73
+Medtronic Inc,Health Care,79.52,4.69,16.96
+Metlife Inc,Financials,51.85,5.2,9.97
+3M Company,Industrials,232.49,8.95,25.98
+Altria Group,Consumer Staples,66.51,3.16,21.05
+Monsanto Company,Materials,118.19,5.53,21.37
+Merck & Company,Health Care,53.74,3.89,13.81
+Morgan Stanley,Financials,49.06,3.61,13.59
+Microsoft Corp,Information Technology,82.49,3.38,24.41
+Nextera Energy,Utilities,155.7,6.67,23.34
+Nike Inc,Consumer Discretionary,59.46,2.35,25.3
+Oracle Corp,Information Technology,48.97,2.55,19.2
+Occidental Petroleum Corp,Energy,68.17,0.35,194.77
+Priceline Group,Consumer Discretionary,1762.23,74.45,23.67
+Pepsico Inc,Consumer Staples,115.5,5.12,22.56
+Pfizer Inc,Health Care,35.38,2.5,14.15
+Procter & Gamble Company,Consumer Staples,88.33,3.98,22.19
+Philip Morris International Inc,Consumer Staples,103.35,4.49,23.02
+Paypal Holdings,Information Technology,76.55,1.4,54.68
+Qualcomm Inc,Information Technology,66.83,3.78,17.68
+Raytheon Company,Industrials,184.22,7.56,24.37
+Starbucks Corp,Consumer Discretionary,56.83,2.07,27.45
+Schlumberger N.V.,Energy,61.53,1.29,47.7
+Southern Company,Utilities,51.12,2.75,18.59
+Simon Property Group,Real Estate,159.25,6.05,26.32
+AT&T Inc,Telecommunications,34.59,2.93,11.81
+Target Corp,Consumer Discretionary,57.77,4.93,11.72
+Time Warner Inc,Consumer Discretionary,88.62,6.06,14.62
+Texas Instruments,Information Technology,98.59,4.06,24.28
+Unitedhealth Group Inc,Health Care,209.75,9.6,21.85
+Union Pacific Corp,Industrials,115.58,5.66,20.42
+United Parcel Service,Industrials,113.2,5.98,18.93
+U.S. Bancorp,Financials,51.88,3.37,15.39
+United Technologies Corp,Industrials,117.05,6.62,17.68
+Visa Inc,Information Technology,110.27,3.48,31.69
+Verizon Communications Inc,Telecommunications,45.85,3.75,12.23
+Walgreens Boots Alliance,Consumer Staples,70.25,5.1,13.77
+Wells Fargo & Company,Financials,54.02,4.14,13.05
+Wal-Mart Stores,Consumer Staples,96.08,4.36,22.04
+Exxon Mobil Corp,Energy,80.31,3.56,22.56
