@@ -47,7 +47,7 @@ import seaborn as sns
 from matplotlib import pyplot as plt
 from tqdm import tqdm
 
-from Foodr import meals_df, stock_df, profit_by_eatery, stock_vs_orders
+from Foodr import meals_df, stock_df, profit_by_eatery, stock_vs_orders, daily_revenue
 
 OMDB_BASE_URL = "https://www.omdbapi.com/"
 
@@ -546,3 +546,10 @@ stock_vs_orders = pd.DataFrame({
 stock_vs_orders["leftover"] = stock_vs_orders["stocked"]-stock_vs_orders["ordered"]
 print("\n✅ Task 4: Meals with negative leftover stock(oversold):")
 print(stock_vs_orders[stock_vs_orders["leftover"]<0])
+
+# ▶️ Step 6: Daily revenue trend using NumPy
+daily_revenue = orders_df.groupby("order_date")["total_price"].sum().reset_index()
+daily_revenue["7_day_avg"] = daily_revenue["total_price"].rolling(window=7).mean()
+print("\n✅ Task 5: Revenue trend (last 10 days:")
+print(daily_revenue.tail(10))
+print("\n ✅ You’ve completed the Foodr Data Analysis Exercise!")
